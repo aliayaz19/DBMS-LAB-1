@@ -1,7 +1,7 @@
 INSERT INTO "St_info" ("st_no", "adm_date", "st_name", "st_age", "st_address") 
 VALUES 
-('1', '2024-10-26', 'Muhammad umar', 19, 'nawabshah '),
-('2', '2024-10-26', 'Muhammad Ahsan', 19, 'nawabshah'),
+('1', '2024-10-26', 'Muhammad Ali', 19, 'nawabshah '),
+('2', '2024-10-26', 'Abdul Hadi', 19, 'nawabshah'),
 ('3', '2024-10-26', 'Abdul Rauf', 20, 'nawabshah'),
 ('4', '2024-10-26', 'Abdul Rehman', 19, 'shapur'),
 ('5', '2024-10-26', 'Amjad Ali', 18, 'nawabshah');
